@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[first]]></title>
+    <url>%2F2018%2F11%2F05%2F1%2F</url>
+    <content type="text"><![CDATA[dsfadsfasdf]]></content>
+      <categories>
+        <category>test</category>
+      </categories>
+      <tags>
+        <tag>test</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[test_my_site]]></title>
     <url>%2F2018%2F11%2F04%2Ftest-my-site%2F</url>
     <content type="text"></content>
